@@ -44,6 +44,3 @@ The Mess Feedback System is designed to streamline the process of giving and vie
 2. User provides feedback on the mess system.
 3. Mess managers analyze feedback data for improvements.
 
----
-
-Feel free to customize and expand upon this README template to provide more specific details about your project's features, technology stack, and any other relevant information.
