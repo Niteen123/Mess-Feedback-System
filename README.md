@@ -1,11 +1,5 @@
 # Mess-Feedback-System
 
-It looks like you have provided a detailed description of your project, which involves creating a mess feedback system for both mess managers and students. This system will allow users to provide feedback on various aspects of the mess and enable mess managers to analyze the feedback data. Here's a basic README outline you could use to summarize your project:
-
----
-
-# Mess Feedback System
-
 ## Description
 The Mess Feedback System is designed to streamline the process of giving and viewing feedback related to mess management. This system eliminates the need for traditional physical registers by offering an online platform for both mess managers and students. Students can provide feedback on food quality, cleanliness, and other aspects, while mess managers can access and analyze the feedback data to improve the overall mess experience.
 
